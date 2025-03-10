@@ -18,6 +18,12 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 ---
 
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029Vb46XsB5fM5ZsHwPgC0O">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
+</div>
+
 ## 🚀 Steps to Deploy
 
 ### Step 1: Fork the Repository
@@ -174,7 +180,7 @@ jobs:
 ### Join Us
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R">
+  <a href="https://whatsapp.com/channel/0029Vb46XsB5fM5ZsHwPgC0O">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
